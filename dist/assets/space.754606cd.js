@@ -1,0 +1,1 @@
+import{h as e}from"./index.f22c08f3.js";const a=t=>e.post("/space/getSpaceIndividual",t),n=t=>e.post("/space/getReleaseInformation",t),i=t=>e.post("/space/getAttentionList",t),o=t=>e.post("/space/getVermicelliList",t);export{a,i as b,o as c,n as g};

@@ -1,0 +1,18 @@
+.bug-box{
+  width:100%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  .title{
+    font-size:18px;
+    color:lightcoral;
+    text-align: center;
+  }
+  .bug-content{
+    margin-bottom:10px;
+  }
+  .submitButton{
+    margin-top: 8px;
+    text-align:center;
+  }
+}
